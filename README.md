@@ -26,6 +26,8 @@
 
 ### 💬 Connect with me
 <p align="center">
-  <a href="https://www.instagram.com/lilsea.7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lilsea7/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+</a>
 </p>
 
