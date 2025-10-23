@@ -1,7 +1,6 @@
 <!-- Header banner -->
-<img src="[https://i.pinimg.com/736x/98/57/89/98578990f5203ba8c2786543af0aecc5.jpg](https://github.com/lilsea7/lilsea7/blob/main/bannergithub.png?raw=true)" alt="Banner" width="100%" />
+<img src="[[https://i.pinimg.com/736x/98/57/89/98578990f5203ba8c2786543af0aecc5.jpg](https://github.com/lilsea7/lilsea7/blob/main/bannergithub.png?raw=true)](https://raw.githubusercontent.com/lilsea7/lilsea7/refs/heads/main/bannergithub.png)" alt="Banner" width="100%" />
 
-<h1 align="center">Hi there 👋, I'm lilsea7</h1>
 <h3 align="center">Dev Full-stack</h3>
 
 ---
