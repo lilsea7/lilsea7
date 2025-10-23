@@ -18,7 +18,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilsea7&show_icons=true&bg_color=FFDDD2&title_color=6C2DC7&text_color=333333&icon_color=E4405F&hide_border=true" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilsea7&layout=compact&bg_color=FFDDD2&title_color=6C2DC7&text_color=333333&icon_color=E4405F&hide_border=true" alt="top langs" />
 </p>
 
