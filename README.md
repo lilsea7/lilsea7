@@ -1,8 +1,8 @@
 <!-- Header banner -->
-<img src="https://i.imgur.com/NrFfKDp.png" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/736x/98/57/89/98578990f5203ba8c2786543af0aecc5.jpg" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm lilsea7</h1>
-<h3 align="center">Front-end Developer | MERN Enthusiast | UI Lover</h3>
+<h3 align="center">Dev Full-stack</h3>
 
 ---
 
@@ -16,25 +16,12 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,figma,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,figma,vscode" />
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilsea7&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilsea7&layout=compact&theme=radical" alt="top langs" />
-</p>
-
----
-
-### 🔥 Streak & Contribution
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lilsea7&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 💬 Connect with me
 <p align="center">
@@ -44,6 +31,3 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/lilsea7/lilsea7/blob/output/github-contribution-grid-snake.svg)
