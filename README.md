@@ -18,8 +18,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilsea7&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilsea7&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://githubreadmestats.vercel.app/api/toplangs/username=lilsea7&layout=compact&bg_color=30,FFDDD2,E0BBE4&title_color=6C2DC7&text_color=333333&icon_color=E4405F&hide_border=true" alt="top langs" />
+</p>
 </p>
 
 ### 💬 Connect with me
